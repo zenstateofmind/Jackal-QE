@@ -1,0 +1,8 @@
+comes here
+pathSeparator: /
+javaBin: /usr/lib/jvm/jdk1.7.0/jre
+this is working
+This is the class: com.hellblazer.process.multi.member1
+config: class com.hellblazer.process.multi.member1
+it comes into member1
+ID of member1 is: 4

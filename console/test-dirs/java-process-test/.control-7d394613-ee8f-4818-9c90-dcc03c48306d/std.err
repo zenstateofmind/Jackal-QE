@@ -1,0 +1,9 @@
+13:56:42.547 [main] INFO  System view initialized for: /127.0.0.1:46487, seeds: [/127.0.0.1:24730, /127.0.0.1:24750]
+13:56:42.889 [main] INFO  Connection set: <id 2 > started on: /127.0.0.1:36693
+13:56:42.926 [main] INFO  Connection server for <id 2 > is started
+13:56:42.926 [main] INFO  Connection server for <id 2 > local address: /127.0.0.1:36693
+13:56:42.935 [Selector[Connection server for <id 2 >]] INFO  Server socket registered for accept [Connection server for <id 2 >]
+13:56:42.942 [Gossip Dispatcher[0] for node[2]] INFO  UDP Gossip communications started on /127.0.0.1:46487
+13:56:43.008 [main] INFO  Partition Manager Test Node 2 - connection server is started
+13:56:43.009 [main] INFO  Partition Manager Test Node 2 - connection server local address: /127.0.0.1:52854
+13:56:43.014 [Selector[Partition Manager Test Node 2 - connection server]] INFO  Server socket registered for accept [Partition Manager Test Node 2 - connection server]
